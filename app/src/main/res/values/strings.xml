@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SubmitHub</string>
+    <string name="tagline">Smart Assignment Submission</string>
+
+    <string name="role_lecturer">Continue as Lecturer</string>
+    <string name="role_student">Continue as Student</string>
+
+    <string name="lecturer_login_title">Lecturer Login</string>
+    <string name="student_login_title">Student Login</string>
+    <string name="hint_id">ID</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Log In</string>
+
+    <string name="generate_code">Generate Code</string>
+    <string name="my_courses">My Courses</string>
+    <string name="submissions">Submissions</string>
+
+    <string name="enter_code">Enter Assignment Code</string>
+    <string name="btn_validate">Validate Code</string>
+    <string name="btn_submit">Submit Assignment</string>
+    <string name="my_submissions">My Submissions</string>
+
+    <string name="pick_file">Choose File</string>
+    <string name="no_file_chosen">No file chosen</string>
+</resources>

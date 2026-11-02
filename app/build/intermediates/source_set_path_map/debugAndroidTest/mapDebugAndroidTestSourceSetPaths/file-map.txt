@@ -1,0 +1,5 @@
+com.submithub.app.test.app-core-1.6.1-0 C:\Users\Debbie\.gradle\caches\transforms-4\f5ff2f927e14c4c703488f52a568bbc9\transformed\core-1.6.1\res
+com.submithub.app.test.app-androidTest-1 C:\Users\Debbie\Documents\SubmitHub\SubmitHub\app\build\generated\res\resValues\androidTest\debug
+com.submithub.app.test.app-mergeDebugAndroidTestResources-2 C:\Users\Debbie\Documents\SubmitHub\SubmitHub\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.submithub.app.test.app-mergeDebugAndroidTestResources-3 C:\Users\Debbie\Documents\SubmitHub\SubmitHub\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.submithub.app.test.app-debugAndroidTest-4 C:\Users\Debbie\Documents\SubmitHub\SubmitHub\app\build\intermediates\merged_res\debugAndroidTest\mergeDebugAndroidTestResources

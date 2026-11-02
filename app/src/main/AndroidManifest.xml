@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="32" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name=".SubmitHubApp"
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.SubmitHub">
+
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name=".ui.auth.CreateAccountActivity" android:exported="false" />
+
+
+        <activity android:name=".ui.settings.SettingsActivity" android:exported="false" />
+        <activity android:name=".ui.lecturer.LecturerLoginActivity" android:exported="false" />
+        <activity android:name=".ui.lecturer.LecturerDashboardActivity" android:exported="false" />
+        <activity android:name=".ui.lecturer.GenerateCodeActivity" android:exported="false" />
+        <activity android:name=".ui.lecturer.SubmissionsActivity" android:exported="false" />
+        <activity android:name=".ui.lecturer.GradingActivity" android:exported="false" />
+        <activity android:name=".ui.profile.ProfileActivity" android:exported="false" />
+        <activity android:name=".ui.lecturer.AnalyticsActivity" android:exported="false" />
+        <activity android:name=".ui.lecturer.AllAssignmentsActivity" android:exported="false" />
+        <activity android:name=".ui.lecturer.CalendarActivity" android:exported="false" />
+        <activity android:name=".ui.lecturer.MyCoursesActivity" android:exported="false" />
+        <activity android:name=".ui.lecturer.CourseAssignmentsActivity" android:exported="false" />
+
+        <activity android:name=".ui.student.StudentLoginActivity" android:exported="false" />
+        <activity android:name=".ui.student.SubmittedActivity" android:exported="false" />
+        <activity android:name=".ui.student.ConfirmedActivity" android:exported="false" />
+
+        <activity android:name=".ui.student.StudentDashboardActivity" android:exported="false" />
+        <activity android:name=".ui.student.SubmitAssignmentActivity" android:exported="false" />
+        <activity android:name=".ui.student.MySubmissionsActivity" android:exported="false" />
+
+        <activity android:name=".ui.admin.AdminLoginActivity" android:exported="false" />
+        <activity android:name=".ui.admin.AdminDashboardActivity" android:exported="false" />
+
+    </application>
+
+</manifest>

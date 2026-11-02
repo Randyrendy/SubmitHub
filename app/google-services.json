@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "324541498407",
+    "project_id": "submithub-ccc34",
+    "storage_bucket": "submithub-ccc34.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324541498407:android:62eea84e39f79483fdfa02",
+        "android_client_info": {
+          "package_name": "com.submithub.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfBwBq5whtsdCuyIYCNjOPxGx-LFZsWLo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

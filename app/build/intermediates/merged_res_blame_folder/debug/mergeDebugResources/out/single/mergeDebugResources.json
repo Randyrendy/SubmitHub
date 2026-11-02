@@ -1,0 +1,338 @@
+[
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_dashboard.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_confirmed_pdf.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_confirmed_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_school.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_school.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_bar_track.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_bar_track.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_my_submission.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_my_submission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_admin_dashboard.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_submitted.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_submitted.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_nav_drawer_lecturer.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\nav_drawer_lecturer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_back.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_back.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_lecturer.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_lecturer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_student_dashboard.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_student_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_chip_success.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_chip_success.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_lecturer_dashboard.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_lecturer_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_dialog_add_user.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\dialog_add_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_analytics.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_add.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_close.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_close.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_admin_code.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_admin_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_settings.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_code_box.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_code_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_profile.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_code.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_icon_circle.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_icon_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_menu.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_analytics.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_logo.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_my_submissions.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_my_submissions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_admin.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_lab.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_lab.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_pill_primary.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_pill_primary.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_chip_warning.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_chip_warning.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_create_account.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_course_assignments.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_course_assignments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_submit_assignment.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_submit_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_calendar.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_upcoming_deadline.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_upcoming_deadline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_generate_code.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_generate_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_assignment.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_book.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_book.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_chip_error.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_chip_error.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_pdf.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_course.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_submitted_pdf.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_submitted_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_message.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_dashed_box.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_dashed_box.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_day_selected_circle.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_day_selected_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_submission.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_submission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_confirmed.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_confirmed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_lecturer_login.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_lecturer_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_bar_fill.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_bar_fill.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_clock.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_clock.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_all_assignments.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_all_assignments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_icon_circle_selected.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_icon_circle_selected.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_icon_option.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_icon_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_history_pdf.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_history_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_calendar_event.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_calendar_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_recent_submission.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_recent_submission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_student_login.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_student_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_calendar_day.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_calendar_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_admin_login.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_analytics_bar.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_analytics_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_submissions.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_submissions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_check.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_check.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_calendar.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_my_courses.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_my_courses.xml"
+    },
+    {
+        "merged": "com.submithub.app-debug-49:/layout_activity_admin_dashboard.xml.flat",
+        "source": "com.submithub.app-main-51:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_file.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_file.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_dialog_add_event.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\dialog_add_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_pill_outline.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_pill_outline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_item_admin_user.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_admin_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_upload.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_bell.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_bell.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\layout_activity_grading.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_grading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_bg_chip_info.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\bg_chip_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_student.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_student.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-debug-49:\\drawable_ic_settings.xml.flat",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\drawable\\ic_settings.xml"
+    }
+]

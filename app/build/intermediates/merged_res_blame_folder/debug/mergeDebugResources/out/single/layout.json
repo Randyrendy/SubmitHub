@@ -1,0 +1,166 @@
+[
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_admin_dashboard.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_student_dashboard.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_student_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_my_courses.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_my_courses.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_confirmed.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_confirmed.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\dialog_add_user.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\dialog_add_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_generate_code.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_generate_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_lecturer_login.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_lecturer_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_all_assignments.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_all_assignments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_calendar_day.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_calendar_day.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_analytics.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_analytics.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_admin_code.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_admin_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_submission.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_submission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\nav_drawer_lecturer.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\nav_drawer_lecturer.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_submissions.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_submissions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_code.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_code.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_lecturer_dashboard.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_lecturer_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_calendar_event.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_calendar_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_submitted.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_submitted.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_settings.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_settings.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_student_login.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_student_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_submitted_pdf.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_submitted_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_history_pdf.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_history_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_calendar.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_calendar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_upcoming_deadline.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_upcoming_deadline.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_recent_submission.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_recent_submission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_analytics_bar.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_analytics_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_admin_user.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_admin_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_confirmed_pdf.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_confirmed_pdf.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_profile.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_admin_login.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_admin_login.xml"
+    },
+    {
+        "merged": "com.submithub.app-mergeDebugResources-48:/layout/activity_admin_dashboard.xml",
+        "source": "com.submithub.app-main-51:/layout/activity_admin_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_grading.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_grading.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_my_submissions.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_my_submissions.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\dialog_add_event.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\dialog_add_event.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_submit_assignment.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_submit_assignment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_icon_option.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_icon_option.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_course_assignments.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_course_assignments.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_my_submission.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_my_submission.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\activity_create_account.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-mergeDebugResources-48:\\layout\\item_course.xml",
+        "source": "C:\\Users\\Debbie\\.gradle\\daemon\\8.7\\com.submithub.app-main-51:\\layout\\item_course.xml"
+    }
+]

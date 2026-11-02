@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="accent">#F5B942</color>
+    <color name="background">#FFFDF9</color>
+    <color name="black">#000000</color>
+    <color name="divider">#F0E7D6</color>
+    <color name="error">#D64545</color>
+    <color name="error_bg">#FBE7E7</color>
+    <color name="info">#3B7DD8</color>
+    <color name="info_bg">#E8F0FC</color>
+    <color name="primary">#E5A020</color>
+    <color name="primary_dark">#C48512</color>
+    <color name="primary_light">#F7C766</color>
+    <color name="sidebar_dark">#1C1B18</color>
+    <color name="success">#2E9E4F</color>
+    <color name="success_bg">#E4F6E9</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface_alt">#FFF6E6</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    <color name="text_primary">#1C1B18</color>
+    <color name="text_secondary">#7A7368</color>
+    <color name="warning">#D9822B</color>
+    <color name="warning_bg">#FDF1E0</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">SubmitHub</string>
+    <string name="btn_login">Log In</string>
+    <string name="btn_submit">Submit Assignment</string>
+    <string name="btn_validate">Validate Code</string>
+    <string name="enter_code">Enter Assignment Code</string>
+    <string name="gcm_defaultSenderId" translatable="false">324541498407</string>
+    <string name="generate_code">Generate Code</string>
+    <string name="google_api_key" translatable="false">AIzaSyCfBwBq5whtsdCuyIYCNjOPxGx-LFZsWLo</string>
+    <string name="google_app_id" translatable="false">1:324541498407:android:62eea84e39f79483fdfa02</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCfBwBq5whtsdCuyIYCNjOPxGx-LFZsWLo</string>
+    <string name="google_storage_bucket" translatable="false">submithub-ccc34.firebasestorage.app</string>
+    <string name="hint_id">ID</string>
+    <string name="hint_password">Password</string>
+    <string name="lecturer_login_title">Lecturer Login</string>
+    <string name="my_courses">My Courses</string>
+    <string name="my_submissions">My Submissions</string>
+    <string name="no_file_chosen">No file chosen</string>
+    <string name="pick_file">Choose File</string>
+    <string name="project_id" translatable="false">submithub-ccc34</string>
+    <string name="role_lecturer">Continue as Lecturer</string>
+    <string name="role_student">Continue as Student</string>
+    <string name="student_login_title">Student Login</string>
+    <string name="submissions">Submissions</string>
+    <string name="tagline">Smart Assignment Submission</string>
+    <style name="Btn.Outline" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/primary</item>
+        <item name="android:textColor">@color/primary</item>
+        <item name="cornerRadius">14dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+    <style name="Btn.Primary" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">14dp</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+    </style>
+    <style name="CalendarWeekdayLabel">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/text_secondary</item>
+        <item name="android:textSize">11sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+    <style name="Input" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+        <item name="boxStrokeColor">@color/primary</item>
+        <item name="hintTextColor">@color/primary</item>
+    </style>
+    <style name="Theme.SubmitHub" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryDark">@color/primary_dark</item>
+        <item name="colorAccent">@color/accent</item>
+        <item name="android:statusBarColor">@color/primary_dark</item>
+        <item name="android:windowBackground">@color/background</item>
+        <item name="android:textColorPrimary">@color/text_primary</item>
+    </style>
+</resources>
