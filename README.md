@@ -1,80 +1,114 @@
-# SubmitHub — Android Assignment Submission App
+# SubmitHub
 
-A native Android app (Kotlin, Room, Material Components) for lecturers to generate
-time-limited submission codes and students to submit assignments against them.
-Works fully offline — no backend server or internet needed.
+An Android app that makes assignment submission and grading simple for **lecturers** and **students**. Lecturers create courses and assignments, track deadlines, grade work with a rubric, and view analytics. Students browse their courses and submit assignments from their phones.
 
-## What it does
+---
 
-**Lecturer**
-- Logs in, sees "My Courses" — a list of codes they've generated
-- Generates a new code: fills in School → Faculty → Department → Course Code →
-  Course Title → Assignment Title, picks an icon, picks a due date/time
-- Gets a 6-character code (e.g. `X7K2Q9`) that auto-expires at the deadline
-- Taps into any code to see who has submitted, with filename and timestamp
+## Features
 
-**Student**
-- Logs in, types in a lecturer's code
-- Sees the assignment's category card (course, department, due date, countdown)
-- Picks a file from their device and submits — blocked automatically once the
-  code has expired or if they've already submitted
-- Can view "My Submissions" — a history of everything they've turned in
+### For lecturers
+- **Admin dashboard**: a central overview of courses, assignments, and submissions
+- **Navigation drawer**: quick access to every lecturer screen
+- **My Courses**: manage the courses you teach
+- **All Assignments**: browse every assignment with **live search**
+- **Grading screen**: grade submissions using a **four-criteria rubric**
+- **Analytics screen**: **bar charts** showing performance and submission data
+- **Calendar screen**: view assignments and **deadlines** by date
 
-Demo accounts are seeded automatically the first time the app runs:
-| Role     | ID          | Password   |
-|----------|-------------|------------|
-| Lecturer | `lecturer1` | `password` |
-| Student  | `student1`  | `password` |
+### For students
+- Browse enrolled courses and assignments
+- Submit files for an assignment
+- Track deadlines
 
-## How to run it (Android Studio)
+---
 
-1. Unzip this project.
-2. Open **Android Studio** → **File → Open** → select the unzipped `SubmitHub` folder
-   (the one containing `settings.gradle.kts`).
-3. Let Gradle sync — the first sync needs internet to download the Android Gradle
-   Plugin, Kotlin compiler, Room, Material, etc. This can take a few minutes.
-4. Plug in your phone (with USB debugging on) or start an emulator.
-5. Click the green **Run ▶** button.
+## Tech Stack
 
-That's it — no Firebase, no server, no API keys. Everything is stored locally on
-the device with a Room (SQLite) database.
+| Area | Technology |
+|---|---|
+| Language | Kotlin |
+| IDE | Android Studio |
+| Database | Firebase Firestore (cross-device sync) |
+| File storage | Supabase Storage (free tier) |
+| Networking | OkHttp |
 
-## Project structure
+### Architecture notes
+- The app originally used a local **Room** database. It was migrated to **Firestore** so data syncs across devices.
+- **Firebase Storage** was replaced by **Supabase Storage** for file uploads, to stay on a free tier.
+
+---
+
+## Getting Started
+
+### Prerequisites
+- Android Studio (latest stable)
+- A Firebase project with Firestore enabled
+- A Supabase project with a storage bucket
+- An Android device or emulator
+
+### Setup
+
+1. **Clone the repository**
+   ```bash
+   git clone <your-repo-url>
+   cd SubmitHub
+   ```
+
+2. **Open the project** in Android Studio and let Gradle sync finish.
+
+3. **Connect Firebase**
+   - In the Firebase Console, add an Android app using this project's package name.
+   - Download `google-services.json`.
+   - Place it in the `app/` folder.
+
+4. **Connect Supabase**
+   - Create a storage bucket for submissions.
+   - Add your Supabase URL, API key, and bucket name where the app expects them (for example `local.properties` or a config file). Do not commit these keys.
+
+5. **Run the app**
+   - Select a device or emulator and click **Run**.
+
+---
+
+## Project Structure
 
 ```
-app/src/main/java/com/submithub/app/
-├── MainActivity.kt                    # role picker: lecturer or student
-├── data/
-│   ├── entity/                        # UserEntity, CodeEntity, SubmissionEntity
-│   ├── dao/                           # Room DAOs
-│   ├── AppDatabase.kt                 # Room database + seed data
-│   └── Repository.kt                  # single data access point
-├── ui/lecturer/                       # login, dashboard, generate code, submissions
-├── ui/student/                        # login, dashboard, submit, my submissions
-└── util/                              # code generator, date helpers, icon catalog
+app/
+ └── src/main/java/.../
+      ├── ui/          # Screens: dashboard, grading, analytics, calendar, courses, assignments
+      ├── data/        # Firestore and Supabase access
+      ├── model/       # Data classes
+      └── util/        # Helpers
 ```
 
-## If something doesn't build
+> Adjust the folder names above to match your actual package layout.
 
-- **"Unresolved reference" on `ActivityXBinding` classes** — these are generated
-  automatically by view binding on build. Do **Build → Clean Project** then
-  **Build → Rebuild Project** and they'll regenerate.
-- **Gradle sync fails** — check you have an internet connection; the first sync
-  downloads dependencies from Google's and Maven's servers.
-- **Old Android Studio version** — this project targets Android Gradle Plugin
-  8.4.1 / Kotlin 1.9.24. If your Android Studio is older, let it prompt you to
-  upgrade the Gradle plugin, or lower the versions in `build.gradle.kts` /
-  `settings.gradle.kts` to match your installed AGP version.
+---
 
-## Notes for your presentation
+## Roadmap
 
-- All data is local (Room/SQLite) — no network permission needed beyond reading
-  files for the upload picker.
-- Codes are functionally time-locked: once `expiresAt` has passed, the app
-  blocks new submissions against that code, both visually (grayed-out button,
-  "Expired" chip) and logically (checked again server-side... well, client-side,
-  right before insert).
-- A student can only submit once per code — enforced by a submission count check.
-- The color palette (amber/gold) and every icon are original assets built as
-  Android vector drawables — no external image files, so there's nothing to be
-  missing when you unzip this.
+- [ ] **Firestore seed guard**: prevent sample data from being seeded more than once
+- [ ] **Parallel batch queries** for the Analytics screen to speed up loading
+- [ ] **Streaming uploads via OkHttp** so large files are not buffered fully in RAM
+
+---
+
+## Testing
+
+The app has been tested on a physical **Xiaomi** device. Please report bugs with clear steps to reproduce, the screen you were on, and what you expected to happen.
+
+---
+
+## Contributing
+
+1. Fork the repository
+2. Create a branch: `git checkout -b feature/your-feature`
+3. Commit your changes: `git commit -m "Add your feature"`
+4. Push the branch: `git push origin feature/your-feature`
+5. Open a pull request
+
+---
+
+## License
+
+Add your license here (for example MIT).
